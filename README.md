@@ -1,6 +1,5 @@
-# start-r-project
-for starting new R projects
-
+# indri-vanilla
+A little project for examining vanilla-extract making 
 
 # Directory Structure
 
