@@ -1,5 +1,5 @@
 # indri-vanilla
-A little project for examining vanilla-extract making 
+A little project for examining vanilla-extract making and rating performance.
 
 # Directory Structure
 
